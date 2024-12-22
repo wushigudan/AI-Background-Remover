@@ -121,6 +121,12 @@ A powerful AI-powered background removal tool that supports multiple popular AI 
    - Supports PNG, JPG, JPEG
    - Max size: 12MB
    - Use clear original images
+## Preview
+
+![Interface](/11.jpg)
+
+### Before and After
+![Before-After](/4k.png)
 
 ---
 
@@ -243,6 +249,13 @@ A powerful AI-powered background removal tool that supports multiple popular AI 
    - 支持PNG、JPG、JPEG格式
    - 大小不超过12MB
    - 建议使用清晰的原图
+  
+   - ## 预览
+
+![界面预览](/11.jpg)
+
+### 效果对比
+![效果对比](/4k.png)
 
 ## 技术支持
 
