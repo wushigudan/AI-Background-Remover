@@ -254,7 +254,7 @@ A powerful AI-powered background removal tool that supports multiple popular AI 
 ![界面预览](/11.jpg)
 
 ### 效果对比
-![效果对比](/4k.png)
+![效果对比](/4K.png)
 
 ## 技术支持
 
