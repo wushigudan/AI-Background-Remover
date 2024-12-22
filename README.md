@@ -124,7 +124,6 @@ A powerful AI-powered background removal tool that supports multiple popular AI 
 ## Preview
 
 ![Interface](/11.jpg)
-
 ### Before and After
 ![Before-After](/4k.png)
 
